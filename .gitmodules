@@ -1,3 +1,6 @@
 [submodule "project1"]
 	path = project1
 	url = https://github.com/samanthagatt/Million-Hairs.git
+[submodule "project2"]
+	path = project2
+	url = https://github.com/samanthagatt/JSON-Poll.git

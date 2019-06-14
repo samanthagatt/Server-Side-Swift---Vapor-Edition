@@ -4,3 +4,6 @@
 [submodule "project2"]
 	path = project2
 	url = https://github.com/samanthagatt/JSON-Poll.git
+[submodule "project3"]
+	path = project3
+	url = https://github.com/samanthagatt/Routing.git
